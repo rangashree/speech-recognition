@@ -3,3 +3,9 @@ requests
 webbrowser
 wikipedia
 datetime
+os
+time
+subprocess
+json
+speech recognition
+pyttsx3
